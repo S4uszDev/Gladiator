@@ -24,17 +24,26 @@ Exclusão de kits:
 
 Os administradores podem deletar kits existentes, caso necessário.
 Isso permite a atualização e remoção de kits obsoletos ou indesejados.
-Comandos
+Comandos:
+
 /createkit <nome> - Cria um novo kit com o nome especificado.
+
 /givekit <kit> <mundo:servidor> - Dá um kit específico para um jogador.
+
 /removekit <kit> - Deleta um kit existente.
+
 /listkist - Lista todos os kits disponíveis.
 
 Permissões
+
 kit.create - Permissão para criar kits.
+
 kit.give - Permissão para dar kits aos jogadores.
+
 kit.remove - Permissão para deletar kits.
+
 kit.list - Permissão para listar os kits.
+
 tpall.use - Permissão para reunir jogadores.
 
 Observação
