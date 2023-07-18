@@ -1,0 +1,28 @@
+name: Gladiator
+main: glad\Loader
+api: 5.0.0
+version: 0.1A
+
+commands:
+  createkit:
+    permission: kit.create
+  listkit:
+    permission: kit.list
+  givekit:
+    permission: kit.give
+  removekit:
+    permission: kit.remove
+  tpall:
+    permission: tpall.sim
+
+permissions:
+  kit.create:
+    default: op
+  kit.list:
+    default: op
+  kit.give:
+    default: op
+  kit.remove:
+    default: op
+  tpall.sim:
+    default: op
